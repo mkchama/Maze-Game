@@ -1,5 +1,12 @@
 # Maze-Game
 
+## Instructions on how to Play
+
+1. Compile and run by using the commands "*make*" and "*make run*" in the Cygwin Terminal.
+2. Press the 'H' key to start the game.
+3. Use 'W' to move up, 'A' to move left, 'D' to move right, and 'S' to move down.
+4. Once you have reached the end of the maze, press the 'H' key to restart.
+
 ![alt text](https://i.imgur.com/brXUxCn.gif "Maze Game Gameplay")
 
 
