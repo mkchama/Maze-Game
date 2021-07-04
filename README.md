@@ -1,6 +1,6 @@
 # Maze-Game
 
-![Gif](https://imgur.com/a/qZdW25E)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qZdW25E" data-context="false" ><a href="//imgur.com/a/qZdW25E"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## How to compile the Maze Gamme on a Windows 10 machine
