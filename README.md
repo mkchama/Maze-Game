@@ -1,5 +1,8 @@
 # Maze-Game
 
+![Gif](https://imgur.com/a/qZdW25E)
+
+
 ## How to compile the Maze Gamme on a Windows 10 machine
 
 You will need:
