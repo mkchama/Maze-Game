@@ -3,7 +3,7 @@
 ![alt text](https://i.imgur.com/brXUxCn.gif "Maze Game Gameplay")
 
 
-## How to compile the Maze Gamme on a Windows 10 machine
+## How to compile the Maze Game on a Windows 10 machine
 
 You will need:
 
